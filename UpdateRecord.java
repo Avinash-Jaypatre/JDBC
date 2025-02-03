@@ -1,4 +1,3 @@
-package com.ty;
 import java.sql.*;
 
 public class UpdateRecord 
